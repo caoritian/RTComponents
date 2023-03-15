@@ -1,0 +1,25 @@
+{
+  "name": "@caoritian/rtcomponents",
+  "version": "1.0.0",
+  "description": "this is a test demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoritian/RTComponents.git"
+  },
+  "keywords": [
+    "components"
+  ],
+  "author": "RiTian Cao",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/caoritian/RTComponents/issues"
+  },
+  "homepage": "https://github.com/caoritian/RTComponents#readme",
+  "dependencies": {
+    "@types/node": "^18.15.3"
+  }
+}
